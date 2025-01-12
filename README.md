@@ -1,5 +1,5 @@
-## A Frontend Mentor challenge. (CSS)
-Project: 
+## A Udemy course project. (JS)
+Description: In this project, I designed the course-independent CSS from scratch and reshaped the UI/UX components with an original approach.
 
 ### Design Overview 🎨
-[![qr-code-component.png](https://i.postimg.cc/MpPYHgrv/qr-code-component.png)](https://postimg.cc/WdZZfYVv)
+[![simple-note-detector-project.png](https://i.postimg.cc/d06r0dRJ/simple-note-detector-project.png)](https://postimg.cc/xkkcxXFZ)
